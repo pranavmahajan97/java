@@ -1,0 +1,52 @@
+native keyword
+
+2 types of mem
+heap and stack(temp as objects are stored variables data and execution flow) as well as method area
+execution mem
+primitive in stack
+objects in heap
+String pool 
+string immutable object
+allclass related info goes to permgen space
+global variables are class variables
+
+Integer xvalue = 100;
+byte xbytevalue = xvalue.byteValue();
+
+
+
+inner class, anonymous class
+
+bean class, execution class, functionality class(CRUD)
+
+javadoc implementation
+reflection concept
+
+javap command
+JDBC connectivity
+
+GIT
+version control system - centralized and distributed vcms
+source control management
+
+SDLC software development life cycle
+1. requirement
+2. design
+3. development architects managers sde1/2/3
+4. testing = unit testing, integration testing, system testing
+5. deployment 
+
+
+amazon - requirement = sell goods online
+# vendors and customers & admin
+design
+
+
+software development models
+
+
+
+
+git init
+git status
+git add src
