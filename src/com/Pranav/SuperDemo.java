@@ -8,9 +8,9 @@ public class SuperDemo {
 	}
 }
 
-class Company {
+class Company2 {
 
-	public Company(int value) {
+	public Company2(int value) {
 		super();
 		System.out.println("CompanyConstructor " + value);
 	}
@@ -21,7 +21,7 @@ class Company {
 
 }
 
-class ServiceCompany extends Company {
+class ServiceCompany extends Company2 {
 
 	public ServiceCompany() {
 		super(100);
